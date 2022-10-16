@@ -1,2 +1,4 @@
 # odin-recipies
-odin project recipies started project
+First project for Odin Project
+
+A simple recipies page
